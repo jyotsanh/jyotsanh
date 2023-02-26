@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! <br>I am Jyotsan.<br>• Currently: Bachelor in Information Technology at Phoenix college.<br>I'm currently working on:<br>• CS50 Introduction to Computer Science.<br>• CS50 Introduction to Artificial Intelligence.<br>
+Hey! <br>I am Jyotsan.<br>• Currently Studying : Bachelor in Information Technology at Phoenix college.<br>I'm currently working on:<br>• CS50 Introduction to Computer Science.<br>• CS50 Introduction to Artificial Intelligence.<br>
 
 
 ## 🌐 Socials:
