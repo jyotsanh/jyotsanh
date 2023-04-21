@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jyotsan</h1>
 <h3 align="center">A passionate AI Engineer from Nepal.</h3>
 
-- 🔭 I’m currently working on deploying Movie Recommendation System: [Exopy](https://github.com/Jyotsan-Hamal/ML-projects/tree/main/Movie%20Recommendation%20System)
+- 🔭 I’m currently working on Deep Learning: [DL](https://github.com/Jyotsan-Hamal/DL)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jyotsan-Hamal?tab=repositories](https://github.com/Jyotsan-Hamal?tab=repositories)
 
