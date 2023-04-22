@@ -4,7 +4,7 @@ I'm a CS50 Artificial Intelligence student and an AI enthusiast. I enjoy learnin
 
 ## Skills
 * Programming languages: Python, Java, C, HTML, CSS
-* Libraries & frameworks: Scikit-Learn, NumPy, Seaborn, OpenCV, Keras, TensorFlow, NLTK
+* Libraries & frameworks: Scikit-Learn, NumPy, Seaborn, OpenCV, Keras, TensorFlow, NLTK, Request, Beautiful Soup, Matplotlib
 * Design tools: Figma, Canva
 
 ## Projects
