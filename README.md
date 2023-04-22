@@ -1,18 +1,19 @@
-<h1 align="center">Hi 👋, I'm Jyotsan</h1>
-<h3 align="center">A passionate AI Engineer from Nepal.</h3>
+# Hi there, I'm Jyotsan 👋
+## About Me
+I'm a CS50 Artificial Intelligence student and an AI enthusiast. I enjoy learning about new technologies and exploring different programming languages. I have experience in Python, Java, C, HTML, and CSS, and I have worked with several libraries and frameworks such as NumPy, Pandas, Scikit-Learn, Seaborn, OpenCV, Keras, TensorFlow, and NLTK. I am also familiar with design tools like Figma and Canva.
 
-- 🔭 I’m currently working on Deep Learning: [DL](https://github.com/Jyotsan-Hamal/DL)
+## Skills
+* Programming languages: Python, Java, C, HTML, CSS
+* Libraries & frameworks: Scikit-Learn, NumPy, Seaborn, OpenCV, Keras, TensorFlow, NLTK
+* Design tools: Figma, Canva
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jyotsan-Hamal?tab=repositories](https://github.com/Jyotsan-Hamal?tab=repositories)
+## Projects
+* [Movie recommendation system](https://github.com/Jyotsan-Hamal/ML-projects/tree/main/Movie%20Recommendation%20System)
+* [Spam message classifier](https://github.com/Jyotsan-Hamal/ML-projects/tree/main/SMS-Spam-Classifier)
 
-- 📫 How to reach me **hamaljyotsan@gmail.com**
+## Education
+* Bachelor's degree in Information Technology, Lincoln University, 2021-2024
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jyotsan hamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyotsan hamal" height="30" width="40" /></a>
-<a href="https://instagram.com/jyotsan.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jyotsan.exe" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hamaljyotsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/hamaljyotsan" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## Contact Me
+* Email: hamaljyotsan@gmail.com
+* LinkedIn: [Jyotsan Hamal](https://www.linkedin.com/in/jyotsan-hamal/)
