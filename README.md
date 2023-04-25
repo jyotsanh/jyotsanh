@@ -17,3 +17,4 @@ I'm a CS50 Artificial Intelligence student and an AI enthusiast. I enjoy learnin
 ## Contact Me
 * Email: hamaljyotsan@gmail.com
 * LinkedIn: [Jyotsan Hamal](https://www.linkedin.com/in/jyotsan-hamal/)
+* Instagram: [Jyotsan](https://www.instagram.com/jyotsan.exe/)
