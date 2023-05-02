@@ -4,6 +4,7 @@ I'm a CS50 Artificial Intelligence student and an AI enthusiast. I enjoy learnin
 
 ## Currently Working on
 * Spotify song recommendation System
+* Book recommendation System running on Flask Backend
 
 ## Skills
 * Programming languages: Python, Java, C, HTML, CSS
