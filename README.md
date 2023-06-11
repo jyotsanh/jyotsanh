@@ -4,7 +4,7 @@ I'm a CS50 Artificial Intelligence student and an AI enthusiast. I enjoy learnin
 
 ## Currently Working on
 * Spotify song recommendation System
-* Laptop Price Predictor on ITTI store dataset
+* building an OCR model from tesseract.
 
 ## Skills
 * Programming languages: Python, Java, C, HTML, CSS
