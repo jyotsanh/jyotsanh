@@ -14,6 +14,7 @@ I'm a CS50 Artificial Intelligence student and an AI enthusiast. I enjoy learnin
 ## Projects
 * [Movie recommendation system](https://github.com/Jyotsan-Hamal/ML-projects/tree/main/Movie%20Recommendation%20System)
 * [Spam message classifier](https://github.com/Jyotsan-Hamal/ML-projects/tree/main/SMS-Spam-Classifier)
+* [Trained tesseract for custom data](https://github.com/Jyotsan-Hamal/train_tesseract_ocr)
 
 ## Education
 * Bachelor's degree in Information Technology, Lincoln University, 2021-2024
