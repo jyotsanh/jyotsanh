@@ -7,8 +7,8 @@ I'm a CS50 Artificial Intelligence student and an AI enthusiast. I enjoy learnin
 * building an OCR model from tesseract.
 
 ## Skills
-* Programming languages: Python, Java, C, HTML, CSS
-* Libraries & frameworks: Scikit-Learn, NumPy, Seaborn, OpenCV, Keras, TensorFlow, NLTK, Request, Beautiful Soup, Matplotlib, Flask, Tesseract, React ,Django, Jupyter notebook
+* Programming languages: Python, Java, C, HTML, CSS, Js
+* Libraries & frameworks: Scikit-Learn, NumPy, Seaborn, OpenCV, Keras, TensorFlow, NLTK, Request, Beautiful Soup, Matplotlib, Flask, Tesseract,Django, Jupyter notebook, Selenium, Spacy
 * Design tools: Figma, Canva
 
 ## Projects
