@@ -15,7 +15,7 @@ I'm a CS50 Artificial Intelligence student and an AI enthusiast. I enjoy learnin
 * [Spam message classifier](https://github.com/Jyotsan-Hamal/ML-projects/tree/main/SMS-Spam-Classifier)
 * [Trained tesseract for custom data](https://github.com/Jyotsan-Hamal/train_tesseract_ocr)
 * [Exopy OTT platform based on Django](https://github.com/Jyotsan-Hamal/Exopy)
-* [CICL Automation in Kamna Sewa Bikas Bank]
+* [CICL Automation in Kamna Sewa Bikas Bank](https://github.com/tathyanka)
 
 ## Education
 * Bachelor's degree in Information Technology, Lincoln University, 2021-2024
