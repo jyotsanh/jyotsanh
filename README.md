@@ -1,6 +1,6 @@
 # Hi there, I'm Jyotsan 👋
 ## About Me
-I'm a CS50 Artificial Intelligence student and an AI enthusiast. I enjoy learning about new technologies and exploring different programming languages. I have experience in Python, C, Js, HTML, and CSS, and I have worked with several libraries and frameworks such as NumPy, Pandas, Scikit-Learn, Seaborn, OpenCV, Keras, TensorFlow, and NLTK. I am also familiar with design tools like Figma and Canva.
+I'm a Student who is currently studying IT at Lincoln University. I like to research anything that tweaks my interest especially at the fields of NLP, you can check my github repo i have done some projects and research and.... that's all about me
 
 ## Currently Working on
 * [BERT Transformer](https://github.com/Jyotsan-Hamal/BERT)
