@@ -10,7 +10,7 @@ I'm a Student who is currently studying IT at Lincoln University. I like to rese
 * Libraries & frameworks: Scikit-Learn, NumPy, Seaborn, OpenCV, Keras, TensorFlow, NLTK, Request, Beautiful Soup, Matplotlib, Flask, Tesseract,Django, Jupyter notebook, Selenium, Spacy
 * Design tools: Figma, Canva
 
-##  Yeah!! I would gladly appreciates your company in any of these field ANN,CNN,OCR,Transformer,Bert,gpt-2,YOLO
+## Yeah!!! and I would gladly appreciate your inquiry in any of these fields: ANN (Artificial Neural Networks), CNN (Convolutional Neural Networks), OCR (Optical Character Recognition), Transformers, BERT, GPT-2, or YOLO. Please feel free to ask questions or request information on a specific topic within these fields
 
 ## Projects
 * [Movie recommendation system](https://github.com/Jyotsan-Hamal/ML-projects/tree/main/Movie%20Recommendation%20System)
