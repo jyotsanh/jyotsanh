@@ -14,6 +14,7 @@ I'm a Student who is currently studying IT at Lincoln University. I like to rese
 
 ## Projects
 * [Movie recommendation system](https://github.com/Jyotsan-Hamal/ML-projects/tree/main/Movie%20Recommendation%20System)
+* [Sentiment Analysis](https://github.com/Jyotsan-Hamal/NLP-projects/tree/main/Sentiment%20Analysis)
 * [Spam message classifier](https://github.com/Jyotsan-Hamal/ML-projects/tree/main/SMS-Spam-Classifier)
 * [Trained tesseract for custom data](https://github.com/Jyotsan-Hamal/train_tesseract_ocr)
 * [Exopy OTT platform based on Django](https://github.com/Jyotsan-Hamal/Exopy)
@@ -24,5 +25,5 @@ I'm a Student who is currently studying IT at Lincoln University. I like to rese
 
 ## Contact Me
 * Email: hamaljyotsan@gmail.com
-* LinkedIn: [Jyotsan Hamal](https://www.linkedin.com/in/jyotsan-hamal/)
+* LinkedIn: [Jyotsan Hamal](https://www.linkedin.com/in/jyotsan-hamal-621317264/)
 * Instagram: [Jyotsan](https://www.instagram.com/jyotsan.exe/)
