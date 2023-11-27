@@ -19,6 +19,7 @@ I'm a Student who is currently studying IT at Lincoln University. I like to rese
 * [Trained tesseract for custom data](https://github.com/Jyotsan-Hamal/train_tesseract_ocr)
 * [Exopy OTT platform based on Django](https://github.com/Jyotsan-Hamal/Exopy)
 * [CICL Automation in Kamna Sewa Bikas Bank](https://github.com/tathyanka)
+* [Python Bots for Scraping](https://github.com/Jyotsan-Hamal/WebScraping)
 
 ## Education
 * Bachelor's degree in Information Technology, Lincoln University, 2021-2024
