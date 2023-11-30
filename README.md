@@ -17,7 +17,7 @@ I'm a Student who is currently studying IT at Lincoln University. I like to rese
 * [Sentiment Analysis](https://github.com/Jyotsan-Hamal/NLP-projects/tree/main/Sentiment%20Analysis)
 * [Spam message classifier](https://github.com/Jyotsan-Hamal/ML-projects/tree/main/SMS-Spam-Classifier)
 * [Trained tesseract for custom data](https://github.com/Jyotsan-Hamal/train_tesseract_ocr)
-* [Exopy OTT platform based on Django](https://github.com/Jyotsan-Hamal/Exopy)
+* [Exopy OTT platform based on Django](https://exopy.vercel.app/)
 * [CICL Automation in Kamna Sewa Bikas Bank](https://github.com/tathyanka)
 * [Python Bots for Scraping](https://github.com/Jyotsan-Hamal/WebScraping)
 
