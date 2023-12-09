@@ -20,7 +20,7 @@ I'm a Student who is currently studying IT at Lincoln University. I like to rese
 * [Trained tesseract for custom data](https://github.com/Jyotsan-Hamal/train_tesseract_ocr)
 * [Exopy OTT platform based on Django](https://exopy.vercel.app/)
 * [CICL Automation in Kamna Sewa Bikas Bank](https://github.com/tathyanka)
-* [FastAPI for pokemon](https://github.com/Jyotsan-Hamal/fastapi-pokemon)
+* [API for pokemon](https://github.com/Jyotsan-Hamal/fastapi-pokemon)
 * [Python Bots for Scraping](https://github.com/Jyotsan-Hamal/WebScraping)
 
 ## Education
