@@ -15,6 +15,7 @@ I'm a Student who is currently studying IT at Lincoln University. I like to rese
 ## Yeah!!! and I would gladly appreciate your inquiry in any of these fields: ANN (Artificial Neural Networks), CNN (Convolutional Neural Networks), OCR (Optical Character Recognition), Transformers, BERT, GPT-2, or YOLO. Please feel free to ask questions or request information on a specific topic within these fields
 
 ## Projects
+* [Face recognition based attendance system](https://github.com/Jyotsan-Hamal/Face-recognition-based-attendance-system)
 * [Movie recommendation system](https://github.com/Jyotsan-Hamal/ML-projects/tree/main/Movie%20Recommendation%20System)
 * [Sentiment Analysis](https://github.com/Jyotsan-Hamal/NLP-projects/tree/main/Sentiment%20Analysis)
 * [Spam message classifier](https://github.com/Jyotsan-Hamal/ML-projects/tree/main/SMS-Spam-Classifier)
