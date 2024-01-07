@@ -9,6 +9,7 @@ I'm a Student who is currently studying IT at Lincoln University. I like to rese
 
 ## Studying
 * [Generative AI for Beginners](https://github.com/Jyotsan-Hamal/generative-ai-for-beginners)
+* [LLM course](https://github.com/Jyotsan-Hamal/llm-course)
 
 ## Skills
 * Programming languages: Python, Java, C, HTML, CSS, Js
