@@ -7,6 +7,9 @@ I'm a Student who is currently studying IT at Lincoln University. I like to rese
 * [Rasa Based Chatbot](https://github.com/Jyotsan-Hamal/NLP-projects/tree/main/Rasa%20based-chatbot)
 * [Health Diagnose System](https://github.com/Jyotsan-Hamal/Health-Diagnose-System)
 
+## Studying
+* [Generative AI for Beginners](https://github.com/Jyotsan-Hamal/generative-ai-for-beginners)
+
 ## Skills
 * Programming languages: Python, Java, C, HTML, CSS, Js
 * Libraries & frameworks: Scikit-Learn, NumPy, Seaborn, OpenCV, Keras, TensorFlow,, Pytorch, NLTK, Request, Beautiful Soup, Matplotlib, Flask, Tesseract, Django, Jupyter notebook, Selenium, Spacy, FastAPI
