@@ -12,11 +12,11 @@ I'm a Student who is currently studying IT at Lincoln University. I like to rese
 * [LLM course](https://github.com/Jyotsan-Hamal/llm-course)
 
 ## Skills
-* Programming languages: Python, Java, C, HTML, CSS, Js
+* Programming languages: Python, C
 * Libraries & frameworks: Scikit-Learn, NumPy, Seaborn, OpenCV, Keras, TensorFlow,, Pytorch, NLTK, Request, Beautiful Soup, Matplotlib, Flask, Tesseract, Django, Jupyter notebook, Selenium, Spacy, FastAPI
 * Design tools: Figma, Canva
 
-## Yeah!!! and I would gladly appreciate your inquiry in any of these fields: ANN (Artificial Neural Networks), CNN (Convolutional Neural Networks), OCR (Optical Character Recognition), Transformers, BERT, GPT-2, or YOLO. Please feel free to ask questions or request information on a specific topic within these fields
+### Yeah!!! and I would gladly appreciate your inquiry in any of these fields: ANN (Artificial Neural Networks), CNN (Convolutional Neural Networks), OCR (Optical Character Recognition), Transformers, BERT, GPT-2, or YOLO. Please feel free to ask questions or request information on a specific topic within these fields
 
 ## Projects
 * [Face recognition based attendance system](https://github.com/Jyotsan-Hamal/Face-recognition-based-attendance-system)
