@@ -4,8 +4,7 @@ I'm a Student who is currently studying IT at Lincoln University. I like to rese
 
 ## Currently Working on
 * [BERT Transformer](https://github.com/Jyotsan-Hamal/BERT)
-* [Rasa Based Chatbot](https://github.com/Jyotsan-Hamal/NLP-projects/tree/main/Rasa%20based-chatbot)
-* [Health Diagnose System](https://github.com/Jyotsan-Hamal/Health-Diagnose-System)
+* Pix2Pix U-net Architecture.
 
 ## Studying
 * [Generative AI for Beginners](https://github.com/Jyotsan-Hamal/generative-ai-for-beginners)
@@ -20,6 +19,7 @@ I'm a Student who is currently studying IT at Lincoln University. I like to rese
 
 ## Projects
 * [Face recognition based attendance system](https://github.com/Jyotsan-Hamal/Face-recognition-based-attendance-system)
+* [Health Diagnose System](https://github.com/Jyotsan-Hamal/Health-Diagnose-System)
 * [Movie recommendation system](https://github.com/Jyotsan-Hamal/ML-projects/tree/main/Movie%20Recommendation%20System)
 * [Sentiment Analysis](https://github.com/Jyotsan-Hamal/NLP-projects/tree/main/Sentiment%20Analysis)
 * [Spam message classifier](https://github.com/Jyotsan-Hamal/ML-projects/tree/main/SMS-Spam-Classifier)
