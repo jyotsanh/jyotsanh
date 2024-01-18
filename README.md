@@ -5,7 +5,6 @@ I'm a Student who is currently studying IT at Lincoln University. I like to rese
 ## Currently Working on
 *  [Generative AI for Beginners](https://github.com/Jyotsan-Hamal/generative-ai-for-beginners)
 * [LLM course](https://github.com/Jyotsan-Hamal/llm-course)
-* [BERT Transformer](https://github.com/Jyotsan-Hamal/BERT)
 * Pix2Pix U-net Architecture.
 
 ## Skills
@@ -17,6 +16,7 @@ I'm a Student who is currently studying IT at Lincoln University. I like to rese
 
 ## Projects
 * [Face recognition based attendance system](https://github.com/Jyotsan-Hamal/Face-recognition-based-attendance-system)
+* [Fine-tune BERT on Game of Throne books](https://github.com/Jyotsan-Hamal/BERT)
 * [Health Diagnose System](https://github.com/Jyotsan-Hamal/Health-Diagnose-System)
 * [Movie recommendation system](https://github.com/Jyotsan-Hamal/ML-projects/tree/main/Movie%20Recommendation%20System)
 * [Sentiment Analysis](https://github.com/Jyotsan-Hamal/NLP-projects/tree/main/Sentiment%20Analysis)
