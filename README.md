@@ -3,7 +3,7 @@
 I'm a Student who is currently studying IT at Lincoln University. I like to research anything that tweaks my interest especially at the fields of NLP, you can check my github repo i have done some projects and research and.... that's all about me
 
 ## Currently Working on
-*  [Generative AI for Beginners](https://github.com/Jyotsan-Hamal/generative-ai-for-beginners)
+*  [Generative AI for Beginners]([https://github.com/Jyotsan-Hamal/generative-ai-for-beginners](https://github.com/Jyotsan-Hamal/GANs-Generative-Adversarial-Networks))
 * [LLM course](https://github.com/Jyotsan-Hamal/llm-course)
 * Pix2Pix U-net Architecture.
 
