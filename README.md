@@ -6,6 +6,12 @@ I'm a Student who is currently studying IT at Lincoln University. I like to rese
 * [Generative AI for Beginners](https://github.com/Jyotsan-Hamal/GANs-Generative-Adversarial-Networks)
 * [LLM course](https://github.com/Jyotsan-Hamal/llm-course)
 * Pix2Pix U-net Architecture.
+ ## Currently I need help in Working to make
+ - To host Apache Linux server
+ - Make it available to public through ngrok
+ - host a website & API through our own server
+ - Use it as a database software
+
 
 ## Skills
 * Programming languages: Python, C
