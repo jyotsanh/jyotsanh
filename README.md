@@ -1,39 +1,42 @@
-# Hi there, I'm Jyotsan 👋
-## About Me
-I'm a Student who is currently studying IT at Lincoln University. I like to research anything that tweaks my interest especially at the fields of NLP, you can check my github repo i have done some projects and research and.... that's all about me
+<h1 align="center">Hi 👋, I'm Jyotsan</h1>
+<h3 align="center">An aspiring AI Engineer</h3>
 
-## Currently Working on
-* [Book Recommendation System](https://github.com/Jyotsan-Hamal/Book-Recommendation-System)
- ## Currently I need help :
- - To host Apache Linux server
- - Make it available to public through ngrok
- - host a website & API through our own server
- - Use it as a database software
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotsan-hamal&label=Profile%20views&color=0e75b6&style=flat" alt="jyotsan-hamal" /> </p>
 
 
-## Skills
-* Programming languages: Python, C
-* Libraries & frameworks: Scikit-Learn, NumPy, Seaborn, OpenCV, Keras, TensorFlow,, Pytorch, NLTK, Request, Beautiful Soup, Matplotlib, Flask, Tesseract, Django, Jupyter notebook, Selenium, Spacy, FastAPI
-* Design tools: Figma, Canva
 
-### Yeah!!! and I would gladly appreciate your inquiry in any of these fields: ANN (Artificial Neural Networks), CNN (Convolutional Neural Networks), OCR (Optical Character Recognition), Transformers, BERT, GPT-2. Please feel free to ask questions or request information on a specific topic within these fields
+- 🔭 I’m currently working on [Book Recommendation System](https://github.com/Jyotsan-Hamal/Book-Recommendation-System)
 
-## Projects
-* [Face recognition based attendance system](https://github.com/Jyotsan-Hamal/Face-recognition-based-attendance-system)
-* [Fine-tune BERT on Game of Throne books](https://github.com/Jyotsan-Hamal/BERT)
-* [Health Diagnose System](https://github.com/Jyotsan-Hamal/Health-Diagnose-System)
-* [Movie recommendation system](https://github.com/Jyotsan-Hamal/ML-projects/tree/main/Movie%20Recommendation%20System)
-* [Sentiment Analysis](https://github.com/Jyotsan-Hamal/NLP-projects/tree/main/Sentiment%20Analysis)
-* [Spam message classifier](https://github.com/Jyotsan-Hamal/ML-projects/tree/main/SMS-Spam-Classifier)
-* [Trained tesseract for custom data](https://github.com/Jyotsan-Hamal/train_tesseract_ocr)
-* [Exopy OTT platform based on Django](https://exopy.vercel.app/)
-* [API for pokemon](https://github.com/Jyotsan-Hamal/fastapi-pokemon)
-* [Python Bots for Scraping](https://github.com/Jyotsan-Hamal/WebScraping)
+- 🌱 I’m currently learning **Math Behind the LSTM, RNNs**
 
-## Education
-* Bachelor's degree in Information Technology, Lincoln University, 2021-2024
+- 👯 I’m looking to collaborate on **Any LLM, Langchain, NLP, CV Projects**
 
-## Contact Me
-* Email: hamaljyotsan@gmail.com
-* LinkedIn: [Jyotsan Hamal](https://www.linkedin.com/in/jyotsan-hamal-621317264/)
-* Instagram: [Jyotsan](https://www.instagram.com/jyotsan.exe/)
+- 🤝 I’m looking for help with **To host Apache Linux server, Make it available to public through ngrok**
+
+- 👨‍💻 All of my projects are available at [https://jyotsan.me/](https://jyotsan.me/)
+
+- 💬 Ask me about **ANN, CNN, OCR, ML, BERT**
+
+- 📫 How to reach me **hamaljyotsan@gmail.com**
+
+- 📄 Know about my experiences [https://jyotsan.me/img/CV.pdf](https://jyotsan.me/img/CV.pdf)
+
+- ⚡ Fun fact **I'm a huge fan of RPG games like Death Stranding, The Witcher 3, Far Cry 4.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jyotsan hamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyotsan hamal" height="30" width="40" /></a>
+<a href="https://kaggle.com/jyotsan_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jyotsan_n" height="30" width="40" /></a>
+<a href="https://instagram.com/jyotsan_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jyotsan_n" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@hamaljyotsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@hamaljyotsan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jyotsanbro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jyotsanbro" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyotsan-hamal&show_icons=true&locale=en&layout=compact" alt="jyotsan-hamal" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotsan-hamal&show_icons=true&locale=en" alt="jyotsan-hamal" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyotsan-hamal&" alt="jyotsan-hamal" /></p>
