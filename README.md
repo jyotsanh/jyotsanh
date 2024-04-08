@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Book Recommendation System](https://github.com/Jyotsan-Hamal/Book-Recommendation-System)
+- 🔭 I’m currently working on EyeMate E-commerce site
 
 - 🌱 I’m currently learning **Math Behind the LSTM, RNNs**
 
