@@ -19,9 +19,9 @@
 
 - 📫 How to reach me **hamaljyotsan@gmail.com**
 
-- 📄 Know about my experiences [https://jyotsan.me/img/CV.pdf](https://jyotsan.me/img/CV.pdf)
+- 📄 CV [click here](https://jyotsan.me/img/CV.pdf)
 
-- ⚡ Fun fact **I'm a huge fan of RPG games like Death Stranding, The Witcher 3, Far Cry 4.**
+- ⚡ Fun fact **I'm a huge fan of open world RPG games like Death Stranding, The Witcher 3, Far Cry 4, Skyrim, far cry series.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
