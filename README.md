@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jyotsan</h1>
 <h3 align="center">An aspiring AI Engineer</h3>
+![image](https://github.com/Jyotsan-Hamal/Jyotsan-Hamal/blob/main/graph.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotsan-hamal&label=Profile%20views&color=0e75b6&style=flat" alt="jyotsan-hamal" /> </p>
 
