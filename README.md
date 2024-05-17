@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jyotsan</h1>
 <h3 align="center">An aspiring AI Engineer</h3>
 
-<a href="https://www.youtube.com/watch?v=5bId3N7QZec" target="blank"><img align="center" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ3ODgzNjQsIm5iZiI6MTcxNDc4ODA2NCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA0VDAyMDEwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAzMGJhOGI0YWM5NDAzZGFiZWJhMTA5YTU5MzEyZjI0MmQ2NDBmYWM0YzI5NjkzNGFmNTg4OWZlN2Y3M2QwYzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.mRc0rGrtp6qAAQgsjUSC3KDUth6kKsP881BJ2lGn3FY" height="700" width="800" /></a>
+<a href="./coder.gif" height="700" width="800" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotsan-hamal&label=Profile%20views&color=0e75b6&style=flat" alt="jyotsan-hamal" /> </p>
 
@@ -63,5 +63,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotsan-hamal&show_icons=true&locale=en" alt="jyotsan-hamal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyotsan-hamal&" alt="jyotsan-hamal" /></p>
-<a href="https://www.youtube.com/watch?v=UNObHh17ruo" target="blank"><img align="center" src="https://private-user-images.githubusercontent.com/74038190/240308118-6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ4MDU4MTcsIm5iZiI6MTcxNDgwNTUxNywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDgxMTgtNmYyOGQ3M2UtMGQ3ZS00YTZjLThkZGYtYmIyNGI2OWE3MWMwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA0VDA2NTE1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBlOGRmMjQxNjQ0ODJjNDllMTk0OGJiZWMzZGU3M2RjODYyMmM5YjQzNjY2ZWZjYjJkZjRiZWZlZGU5NjgzMmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.YG6CsgX3Ps2ALq4MkFIW0sk1BiOKE6ST6Jq41cl1afs" height="700" width="600" /></a>
+<a src="./fly.gif" height="700" width="600" /></a>
 
