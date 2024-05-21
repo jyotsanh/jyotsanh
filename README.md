@@ -58,10 +58,10 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="react" width="40" height="40"/> </a> 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyotsan-hamal&show_icons=true&locale=en&layout=compact" alt="jyotsan-hamal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyotsanh&show_icons=true&locale=en&layout=compact" alt="jyotsan-hamal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotsan-hamal&show_icons=true&locale=en" alt="jyotsan-hamal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotsanh&show_icons=true&locale=en" alt="jyotsan-hamal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyotsan-hamal&" alt="jyotsan-hamal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyotsanh&" alt="jyotsan-hamal" /></p>
 <a src="./fly.gif" height="700" width="600" /></a>
 
