@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [EyeMate E-commerce site](https://github.com/Jyotsan-Hamal/EyeMate)
 
-- 🌱 I’m currently learning **Math Behind the LSTM, RNNs**
+- 🌱 I’m currently learning **traditional algorithm for face recognition**
 
 - 👯 I’m looking to collaborate on **Any LLM, Langchain, NLP, CV Projects**
 
-- 🤝 I’m looking for help with **To host Apache Linux server, Make it available to public through ngrok**
+- 🤝 I’m looking for help with **Search Engine optimization**
 
 - 👨‍💻 All of my projects are available at [https://jyotsan.me/](https://jyotsan.me/)
 
