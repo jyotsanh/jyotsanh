@@ -23,6 +23,7 @@
 
 - ⚡ Fun fact **I'm a huge fan of open world RPG games like Death Stranding, The Witcher 3, Far Cry 4, Skyrim, far cry series.**
 
+![](./contour.png)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jyotsan-hamal-621317264/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="jyotsan hamal" height="50" width="50" /></a>
