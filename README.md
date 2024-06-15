@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [EyeMate E-commerce site](https://github.com/Jyotsan-Hamal/EyeMate)
 
-- 🌱 I’m currently learning **traditional algorithm for face recognition**
+- 🌱 I’m currently learning **FaceNet Architecture**
 
 - 👯 I’m looking to collaborate on **Any LLM, Langchain, NLP, CV Projects**
 
