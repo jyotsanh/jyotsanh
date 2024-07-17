@@ -29,10 +29,13 @@
 <a href="https://www.linkedin.com/in/jyotsan-hamal-621317264/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="jyotsan hamal" height="50" width="50" /></a>
 <a href="https://kaggle.com/jyotsan_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jyotsan_n" height="30" width="40" /></a>
 <a href="https://instagram.com/jyotsan_n" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="jyotsan_n" height="50" width="50" /></a>
-<a href="https://www.hackerrank.com/profile/hamaljyotsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@hamaljyotsan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jyotsanbro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jyotsanbro" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Compete with me:</h3>
+<p align="left">
+  <a href="https://www.leetcode.com/jyotsanbro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jyotsanbro" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/hamaljyotsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@hamaljyotsan" height="30" width="40" /></a>
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="python" width="40" height="40"/> </a> 
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
