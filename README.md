@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Search Engine optimization**
 
-- 👨‍💻 All of my projects are available at [https://jyotsan.me/](https://jyotsan.me/)
+- 👨‍💻 All of my projects are available at [https://jyotsan.me/](https://jyotsanh.github.io/Portfolio/)
 
 - 💬 Ask me about **ANN, CNN, OCR, ML, BERT**
 
