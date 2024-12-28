@@ -7,17 +7,17 @@
 
 
 
-- 🔭 I’m currently working on [EyeMate E-commerce site](https://github.com/jyotsanh/MERN-project)
+- 🔭 I’m currently working on **ReAct Agent**
 
 - 🌱 I’m currently learning **GAN's**
 
-- 👯 I’m looking to collaborate on **Any LLM, Langchain, NLP, CV Projects**
+- 👯 I’m looking to collaborate on **Any LLM, Langchain, LnagGrapg, NLP, CV Projects**
 
 - 🤝 I’m looking for help with **Search Engine optimization**
 
 - 👨‍💻 All of my projects are available at [https://jyotsan.me/](https://jyotsanh.github.io/Portfolio/)
 
-- 💬 Ask me about **ANN, CNN, OCR, ML, BERT**
+- 💬 Ask me about **ANN, CNN, OCR, ML, BERT, GPT**
 
 - 📫 How to reach me **hamaljyotsan@gmail.com**
 
