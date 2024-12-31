@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jyotsan</h1>
-<h3 align="center">An aspiring AI Engineer</h3>
+<h3 align="center">aspiring AI Engineer</h3>
 
 ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWk0YWc1dm5kYWYyeG11NmdlMjc5N3h6MGk0aTZvb2pubDN3ODhmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btSIGiuRJZJCS9W/giphy.gif)
 
