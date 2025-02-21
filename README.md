@@ -7,11 +7,11 @@
 
 
 
-- 🔭 I’m currently working on **ReAct Agent**
+- 🔭 I’m currently working on **Multi-Agent Network**
 
-- 🌱 I’m currently learning **GAN's**
+- 🌱 I’m currently learning **Kubernetes**
 
-- 👯 I’m looking to collaborate on **Any LLM, Langchain, LnagGrapg, NLP, CV Projects**
+- 👯 I’m looking to collaborate on **Any LLM, Langchain, LangGrapg, NLP, CV Projects**
 
 - 🤝 I’m looking for help with **Search Engine optimization**
 
