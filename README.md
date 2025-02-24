@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 👯 I’m looking to collaborate on **Any LLM, Langchain, LangGrapg, NLP, CV Projects**
+- 👯 I’m looking to collaborate on **Any LLM, Langchain, LangGraph, NLP, CV Projects**
 
 - 🤝 I’m looking for help with **Search Engine optimization**
 
