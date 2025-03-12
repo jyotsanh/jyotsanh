@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **hamaljyotsan@gmail.com**
 
-- ⚡ Fun fact **I'm a huge fan of open world RPG games like Death Stranding, The Witcher 3, Far Cry 4, Skyrim, far cry series.**
+- ⚡ Fun fact **I'm a huge fan of open world RPG games like Death Stranding, The Witcher 3, Far Cry 4, Skyrim, Ghost of Tsushima, far cry series.**
 
 ![](./contour.png)
 <h3 align="left">Connect with me:</h3>
