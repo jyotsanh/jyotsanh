@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotsan-hamal&label=Profile%20views&color=0e75b6&style=flat" alt="jyotsan-hamal" /> </p>
 
+## Leetcode Stats
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/Jyotsanbro?ext=heatmap)
 
 - 🔭 I’m currently working on **Multi-Agent Network**
 
