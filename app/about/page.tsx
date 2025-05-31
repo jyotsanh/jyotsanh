@@ -1,5 +1,6 @@
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
+import { Button } from "@/components/ui/button"
 
 export default function AboutPage() {
   return (
@@ -11,6 +12,42 @@ export default function AboutPage() {
             Passionate about building intelligent solutions that make a real-world impact
           </p>
         </div>
+
+        {/* Download CV Section */}
+        <section className="text-center">
+          <Card className="dark:bg-gray-800 dark:border-gray-700 max-w-md mx-auto">
+            <CardContent className="p-6">
+              <div className="space-y-4">
+                <div className="w-16 h-16 bg-blue-100 dark:bg-blue-900 rounded-full flex items-center justify-center mx-auto">
+                  <svg
+                    className="w-8 h-8 text-blue-600 dark:text-blue-400"
+                    fill="none"
+                    stroke="currentColor"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"
+                    />
+                  </svg>
+                </div>
+                <div>
+                  <h3 className="text-lg font-semibold dark:text-white mb-2">Download My Resume</h3>
+                  <p className="text-sm text-gray-600 dark:text-gray-300 mb-4">
+                    Get a comprehensive overview of my experience, skills, and achievements
+                  </p>
+                </div>
+                <Button size="lg" className="w-full" asChild>
+                  <a href="/jyotsan-hamal-cv.pdf" download="Jyotsan_Hamal_CV.pdf">
+                    Download CV (PDF)
+                  </a>
+                </Button>
+              </div>
+            </CardContent>
+          </Card>
+        </section>
 
         {/* About Me Section */}
         <section className="space-y-6">

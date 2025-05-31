@@ -35,7 +35,7 @@ export default function EducationPage() {
             </CardHeader>
             <CardContent>
               <p className="text-gray-700 dark:text-gray-300">
-                Currently pursuing Bachelor's degree in Information Technology with focus on software development,
+                Completed Bachelor's degree in Information Technology with focus on software development,
                 machine learning, and modern web technologies.
               </p>
             </CardContent>

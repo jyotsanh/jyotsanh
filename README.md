@@ -1,30 +1,40 @@
 <h1 align="center">Hi 👋, I'm Jyotsan</h1>
-<h3 align="center">aspiring AI Engineer</h3>
+<h3 align="center"> AI Engineer</h3>
 
-![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWk0YWc1dm5kYWYyeG11NmdlMjc5N3h6MGk0aTZvb2pubDN3ODhmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btSIGiuRJZJCS9W/giphy.gif)
 
+<div align="center">
+  
+  ![silicon valley meme gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWk0YWc1dm5kYWYyeG11NmdlMjc5N3h6MGk0aTZvb2pubDN3ODhmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btSIGiuRJZJCS9W/giphy.gif)
+    
+</div>
+
+---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotsan-hamal&label=Profile%20views&color=0e75b6&style=flat" alt="jyotsan-hamal" /> </p>
 
-## Leetcode Stats
+## 🎯 Current Focus
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Jyotsanbro?ext=heatmap)
+<div align="center">
+  <img src="./dev.gif" alt="Developer at work" width="350" align="right">
+</div>
 
-- 🔭 I’m currently working on **Multi-Agent Network**
+- 🔭 **Working on:** Multi-Agent Network Architecture
+- 🌱 **Learning:** Kubernetes & Container Orchestration  
+- 🤝 **Open to collaborate on:** LLM, Langchain, LangGraph, NLP, CV Projects
+- 💡 **Seeking help with:** Search Engine Optimization
+- 💬 **Ask me about:** ANN, CNN, OCR, ML, BERT, GPT
+- 📫 **Reach me:** hamaljyotsan@gmail.com
+- ⚡ **Fun fact:** Huge fan of open-world RPGs like Skyrim, The Witcher 3, Ghost of Tsushima!
 
-- 🌱 I’m currently learning **Kubernetes**
+---
+## 🏆 LeetCode Journey
 
-- 👯 I’m looking to collaborate on **Any LLM, Langchain, LangGraph, NLP, CV Projects**
+<div align="center">
+  
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/Jyotsanbro?ext=heatmap)
+  
+</div>
 
-- 🤝 I’m looking for help with **Search Engine optimization**
-
-- 👨‍💻 All of my projects are available at [https://jyotsan.me/](https://jyotsanh.github.io/Portfolio/)
-
-- 💬 Ask me about **ANN, CNN, OCR, ML, BERT, GPT**
-
-- 📫 How to reach me **hamaljyotsan@gmail.com**
-
-- ⚡ Fun fact **I'm a huge fan of open world RPG games like Death Stranding, The Witcher 3, Far Cry 4, Skyrim, Ghost of Tsushima, far cry series.**
-
+---
 ![](./contour.png)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -68,10 +78,41 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="react" width="40" height="40"/> </a> 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyotsanh&show_icons=true&locale=en&layout=compact" alt="jyotsan-hamal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotsanh&show_icons=true&locale=en" alt="jyotsan-hamal" /></p>
+## 📊 GitHub Analytics
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyotsanh&" alt="jyotsan-hamal" /></p>
-<a src="./fly.gif" height="700" width="600" /></a>
+<div align="center">
+  
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=jyotsanh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jyotsanh&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jyotsanh&theme=tokyonight&hide_border=true)
+  
+</div>
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="./dev.gif" alt="Developer at work" height="150" />
+      </td>
+      <td align="center">
+        <img src="./fly.gif" alt="Marceline Flying" height="300" />
+      </td>
+      <td align="center">
+        <img src="./coder.gif" alt="Coder GIF" height="150" />
+      </td>
+      <td align="center">
+        <img src="./graph.gif" alt="Coder GIF" height="250" />
+      </td>
+    </tr>
+  </table>
+</div>
